@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>Samplab.UrlTools</PackageId>
+    <Version>0.1.1</Version>
+    <Authors>bbwdadfg</Authors>
+    <Description>Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK.</Description>
+    <PackageProjectUrl>https://samplab.pro/</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/wangneo276-lgtm/samplab-url-tools</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="../README.md" Pack="true" PackagePath="" />
+    <None Include="../LICENSE" Pack="true" PackagePath="LICENSE" />
+  </ItemGroup>
+</Project>

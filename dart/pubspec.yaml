@@ -1,0 +1,7 @@
+name: samplab_url_tools
+description: Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK.
+version: 0.1.1
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+homepage: https://samplab.pro/
+repository: https://github.com/wangneo276-lgtm/samplab-url-tools

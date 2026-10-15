@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "samplab_url_tools"
+  ],
+  "packages": [
+    {
+      "name": "samplab_url_tools",
+      "version": "0.1.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}

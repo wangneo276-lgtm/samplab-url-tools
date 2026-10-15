@@ -1,0 +1,8 @@
+{
+  "name": "@bbwdadfg/samplab-url-tools",
+  "version": "0.1.1",
+  "exports": "./mod.ts",
+  "license": "MIT",
+  "homepage": "https://samplab.pro/",
+  "repository": "https://github.com/wangneo276-lgtm/samplab-url-tools"
+}
