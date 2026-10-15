@@ -1,0 +1,23 @@
+{
+  "name": "samplab-url-tools",
+  "version": "0.1.0",
+  "description": "Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK.",
+  "type": "module",
+  "license": "MIT",
+  "homepage": "https://samplab.pro/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bbwdadfg/samplab-url-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bbwdadfg/samplab-url-tools/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "test": "node --test test.js"
+  }
+}

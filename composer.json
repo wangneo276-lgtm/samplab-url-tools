@@ -1,0 +1,20 @@
+{
+  "name": "bbwdadfg/samplab-url-tools",
+  "description": "Offline URL builder for SampLab Pro, a browser audio and MIDI tool suite. Not an official SDK.",
+  "type": "library",
+  "license": [
+    "MIT"
+  ],
+  "homepage": "https://samplab.pro/",
+  "support": {
+    "source": "https://github.com/bbwdadfg/samplab-url-tools"
+  },
+  "autoload": {
+    "psr-4": {
+      "SamplabUrlTools\\": "php/src/SamplabUrlTools/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  }
+}
